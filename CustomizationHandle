@@ -30,7 +30,7 @@ game.ReplicatedStorage.CustomizationEvents.EngineUpgrade.OnServerEvent:Connect(f
 end)
 
 local SuperchargerUpgrade = 4500
-local TurboUpgrade = 5500
+local TurboUpgrade = 7700
 
 
 game.ReplicatedStorage.CustomizationEvents.InductionUpgrade.OnServerEvent:Connect(function(player,Car,InductionUpgrade)
